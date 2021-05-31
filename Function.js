@@ -1,5 +1,2 @@
-abc
-d
-e
-e
-function() {}
+
+FunctionCalculator() {}
